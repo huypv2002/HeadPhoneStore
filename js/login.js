@@ -76,7 +76,7 @@ form.addEventListener('submit', function (e) {
 })
 
 function dieu_huong_0(){
-    location.assign("http://127.0.0.1:5500/index.html");
+    location.assign("https://huypv2002.github.io/HeadPhoneStore/index.html");
 }
 // Event listeners
 form.addEventListener('submit', function (e) {
