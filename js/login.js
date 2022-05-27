@@ -75,9 +75,6 @@ form.addEventListener('submit', function (e) {
 	}
 })
 
-function dieu_huong_0(){
-    location.assign("https://huypv2002.github.io/HeadPhoneStore/index.html");
-}
 // Event listeners
 form.addEventListener('submit', function (e) {
 	e.preventDefault()
@@ -91,3 +88,6 @@ form.addEventListener('submit', function (e) {
 })
 
 
+function dieu_huong_0(){
+    location.assign("https://huypv2002.github.io/HeadPhoneStore/index.html");
+}
